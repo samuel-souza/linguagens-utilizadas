@@ -4,4 +4,4 @@ Repositório criado a partir do projeto 'RequestsPython' para armazenar dados re
 
 Link para o projeto citado: 
 
-https://github.com/samuel-souza/RequestsPython
+https://github.com/samuel-souza/ETL-API-GitHub-Python
